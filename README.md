@@ -1,3 +1,12 @@
+# Meetapp:
+
+Projeto apresentado como desafio pela Rocketseat:
+Meetapp trata-se de uma aplicação onde os usuários podem criar meetups, se inscrever em meetups e etc.
+
+O backend pode ser desenvolvido dem AdonisJS ou ExpressJS;
+
+Frontend em react com telas de SignIn, SignUp, Dashboard, Profile, Meetup (edit/create);
+
 # Meetapp2.0
 
 Explorando o potencial do Meetapp.
