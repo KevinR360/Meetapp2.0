@@ -16,6 +16,38 @@ Explorando o potencial do Meetapp.
 O projeto apresentado como desafio do bootcamp GoStack da Rocketseat, possui um potencial enorme a ser explorado.
 Com isso em mente resolvi propor a comunidade a evolução do projeto (simplesmente para fins acadêmicos).
 
+# Backend :
+
+- [ ] Autenticação de usuários com JWT;
+- [ ] Cadastro de usuários;
+- [ ] Files;
+- [ ] Meetups => | banner | title | description | data | Owner |;
+- [ ] Comentários do Meetup;
+- [ ] Notifications com envio de e-mails;
+- [ ] Subscribe;
+
+# Frontend :
+
+- [ ] Autenticação;
+- [ ] Cadastro;
+- [ ] Dashboard => feed com Meetups;
+- [ ] Details => Meetup;
+- [ ] New/Edit => Meetup => Verificar Owner;
+- [ ] Profile;
+- [ ] EditProfile => editar dados do usuário;
+- [ ] Notifications;
+- [ ] Support/feedback;
+
+# Mobile :
+
+- [ ] Autenticação;
+- [ ] Cadastro;
+- [ ] Dashboard;
+- [ ] Profile;
+- [ ] Profile => Inscrições;
+
+# Propostas
+
 # Dashboard:
 
 <ul> 
@@ -54,7 +86,7 @@ Com isso em mente resolvi propor a comunidade a evolução do projeto (simplesme
   </li>
 </ul>
 
-# MyPage:
+# Profile:
 
 <ul>
   <li>
@@ -65,7 +97,7 @@ Com isso em mente resolvi propor a comunidade a evolução do projeto (simplesme
   </li>
 </ul>
 
-# Profile:
+# Profile/Details/Edit:
 
 <ul>
   <li>
@@ -75,10 +107,6 @@ Com isso em mente resolvi propor a comunidade a evolução do projeto (simplesme
     Update
   </li>
 </ul>
-
-# SignIn & SignUp
-
-# Notifications
 
 # Mobile App:
 
@@ -92,5 +120,3 @@ Com isso em mente resolvi propor a comunidade a evolução do projeto (simplesme
     </ul>
   </li>
 </ul>
-
-# Suporte e feedback
